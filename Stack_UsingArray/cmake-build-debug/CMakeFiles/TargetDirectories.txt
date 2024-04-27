@@ -1,0 +1,3 @@
+G:/Lab Practice/Stack_UsingArray/cmake-build-debug/CMakeFiles/Stack_UsingArray.dir
+G:/Lab Practice/Stack_UsingArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Lab Practice/Stack_UsingArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
